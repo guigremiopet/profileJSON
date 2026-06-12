@@ -1,1 +1,131 @@
 
+{
+  "profile": {
+    "name": "Guilherme Pettersen",
+
+    "job_preferences": {
+      "remote": true,
+      "hybrid": true,
+      "onsite": true,
+
+      "levels": [
+        "intern",
+        "trainee",
+        "junior",
+        "mid",
+        "pleno"
+      ],
+
+      "minimum_score": 30
+    },
+
+    "skills": {
+
+      "c#": 30,
+      ".net": 30,
+      "dotnet": 30,
+
+      "developer": 15,
+      "software": 15,
+      "engineer": 15,
+
+      "backend": 20,
+      "api": 15,
+      "rest": 15,
+      "node": 15,
+      "node.js": 15,
+
+      "sql": 15,
+      "mongodb": 15,
+
+      "python": 15,
+      "java": 10,
+
+      "javascript": 15,
+      "react": 15,
+      "next.js": 15,
+      "html": 10,
+      "css": 10,
+
+      "embedded": 30,
+      "firmware": 30,
+      "stm32": 35,
+      "freertos": 35,
+      "iot": 25,
+      "microcontroller": 25,
+
+      "automation": 20,
+      "industrial": 15,
+      "industry 4.0": 20,
+
+      "git": 10,
+      "cloud": 15,
+      "power bi": 10,
+
+      "unity": 25,
+      "game": 15,
+      "gamedev": 20,
+
+      "remote": 20,
+      "home office": 20
+    },
+
+    "negative": {
+
+      "marketing": 40,
+      "sales": 40,
+      "account executive": 50,
+      "business development": 50,
+
+      "principal": 30,
+      "staff": 30,
+      "director": 50,
+      "manager": 20
+    },
+
+    "preferred_roles": [
+
+      "software engineer",
+      "software developer",
+      "backend developer",
+      "backend engineer",
+      ".net developer",
+      "c# developer",
+      "embedded engineer",
+      "firmware engineer",
+      "iot engineer",
+      "automation engineer",
+      "fullstack developer",
+      "game developer",
+      "unity developer"
+    ],
+
+    "preferred_languages": [
+      "c",
+      "c++",
+      "c#",
+      "python",
+      "javascript",
+      "java"
+    ],
+
+    "preferred_technologies": [
+      "react",
+      "next.js",
+      "node.js",
+      "sql",
+      "mongodb",
+      "stm32",
+      "freertos",
+      "iot",
+      "git",
+      "cloud"
+    ],
+
+    "languages": {
+      "portuguese": "native",
+      "english": "intermediate",
+      "spanish": "intermediate"
+    }
+  }
+}
